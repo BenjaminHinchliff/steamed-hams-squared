@@ -16,7 +16,7 @@ I'm not the only one to do this, so here are some other approaches:
 Due to the fact I made this in a day, everything is hard-coded in constants at the
 start of the python file. Edit those if you would like to use this for yourself.
 Expect a non-trivial runtime and RAM usage - around 12 minutes and 1 GiB on my system
-(11th gen i7) for the [steamed hams] video.
+(11th gen i7) for the [steamed hams](https://youtu.be/mDUIGvpDolw) video.
 
 The scripts depends on OpenCV, numpy, and scipy - a requirements.txt file is included.
 
